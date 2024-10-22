@@ -1,0 +1,11 @@
+html {
+    font-size: 62.5%;
+}
+* { 
+    box-sizing: border-box;
+}
+body {
+    background: #CBE1F1;
+    font-family: "Nunito";
+    margin: 3em;
+}
